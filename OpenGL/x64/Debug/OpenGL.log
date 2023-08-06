@@ -1,0 +1,6 @@
+﻿  Source.cpp
+C:\Users\YoungOne\Documents\PersonalBackedUp\university\term 2\Real-Time Rendering Techniques\OpenGL\Assigment\Assigment Files\assigment\OpenGL\Source.cpp(249,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\YoungOne\Documents\PersonalBackedUp\university\term 2\Real-Time Rendering Techniques\OpenGL\Assigment\Assigment Files\assigment\OpenGL\Source.cpp(250,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\YoungOne\Documents\PersonalBackedUp\university\term 2\Real-Time Rendering Techniques\OpenGL\Assigment\Assigment Files\assigment\OpenGL\Source.cpp(252,10): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\YoungOne\Documents\PersonalBackedUp\university\term 2\Real-Time Rendering Techniques\OpenGL\Assigment\Assigment Files\assigment\OpenGL\Source.cpp(253,10): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  OpenGL.vcxproj -> C:\Users\YoungOne\Documents\PersonalBackedUp\university\term 2\Real-Time Rendering Techniques\OpenGL\Assigment\Assigment Files\assigment\x64\Debug\OpenGL.exe
